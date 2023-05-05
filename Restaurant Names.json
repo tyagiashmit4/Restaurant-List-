@@ -1,0 +1,42 @@
+{
+	"results": [
+		{
+			"id": 1,
+			"name": "Cafe Street 1",
+			"name_en": "Cafe Street 1",
+			"category": "cafe",
+			"image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5635/01.jpg",
+			"location": "Alpha 1 Commertial Market "
+		},
+		{
+			"id": 2,
+			"name": "Veg grill",
+			"name_en": "Veg Grill",
+			"category": "Restaurant",
+			"image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5628/02.jpg",
+			"location": "Alpha 1 Commertial Market "
+			
+		},
+		{
+			"id": 3,
+			"name": "81c",
+			"name_en": "81c",
+			"category": "Restaurant",
+			"image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5629/03.jpg",
+			"location": "Omaxe Nri City Mall "
+			
+		},
+		{
+			"id": 4,
+			"name": "ToyBoy",
+			"name_en": "ToyBoy",
+			"category": "Restaurant and Bar",
+			"image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5630/04.jpg",
+			"location": "Garden galleria sector 18 Noida"
+			
+		}
+		
+		
+		
+	]
+}
